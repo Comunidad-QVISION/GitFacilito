@@ -1,0 +1,84 @@
+[33mcommit e26b4c3641c0dd5efdb5678b335548c564b21184[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yeimy Hernández <yeimyhb2020@hotmail.com>
+Date:   Tue Jan 21 10:02:21 2020 -0500
+
+    Nuevo cambio yhernandezb
+
+[33mcommit 8a1028182ae85682946196a279a62ada842efa60[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Yeimy Hernández <yeimyhb2020@hotmail.com>
+Date:   Tue Jan 21 10:00:13 2020 -0500
+
+    Nuevo cambio yhernandezb
+
+[33mcommit 5169a249dd81401fca2e969f0a9854acac43baa5[m
+Merge: 051d58d ef8008d
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 16:52:35 2020 -0500
+
+    se arreglaron los conflictos y quedo el h2 de Proyecto yhernandezb
+
+[33mcommit 051d58dc6efd7501d12d833d23ee3ed7424bb8df[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 16:41:33 2020 -0500
+
+    Se cambio el h2 a codigo facilito
+
+[33mcommit ef8008db3efea1a1d1bc5417c2da7dbbc5d8e783[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 16:38:40 2020 -0500
+
+    Cambiamos el titulo el h2 a bienvenidos todos
+
+[33mcommit 5432fb67b99e5d2aefdf69c6575a3f1b5c6139c8[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 15:43:19 2020 -0500
+
+    Agregamos un nuevo article omar clonado
+
+[33mcommit c44cc7959ee3032922d8f131bab6bef26244795a[m[33m ([m[1;33mtag: v0.8[m[33m)[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 11:11:09 2020 -0500
+
+    Cambio en h3
+
+[33mcommit 69d40ff1f58e3f04e20446ff2e91142c1ebbf7cd[m[33m ([m[1;33mtag: v0.7[m[33m)[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 11:08:27 2020 -0500
+
+    cambiamos el h2 cambio 6 en testeo
+
+[33mcommit d571623b41ad02e3b2228baf2078c586dd987dd0[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 10:57:18 2020 -0500
+
+    Agragamos article de instagram 6 cambio
+
+[33mcommit 6da70d27f755e21f82ce52e55593412d74751e16[m[33m ([m[1;33mtag: v0.4[m[33m)[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 10:52:59 2020 -0500
+
+    agragamos el borde del boton y article de github 5 cambio
+
+[33mcommit 90ce64aa32ecb0b0606c9a6498ad559a319ea15d[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 10:23:50 2020 -0500
+
+    cambio titulo, cambio parrafo, cambio en el boton
+
+[33mcommit 75dd26cda126601bb4498b8c43d802dd2a2464b4[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 10:22:02 2020 -0500
+
+    Se agrego animacion
+
+[33mcommit 42bb971e59eb6526cab048d13f06b0d403f017d7[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 10:20:35 2020 -0500
+
+    Se agrego twitter y estilos del boton h3 y parafo lorem
+
+[33mcommit 3f6d908401c6022d0976619b788fbdb6b114cf39[m
+Author: Yeimy Hernández <yeimyhb2015@gmail.com>
+Date:   Mon Jan 20 08:27:32 2020 -0500
+
+    Iniciamos
